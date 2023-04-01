@@ -25,6 +25,8 @@ soon will be hosted
 
 ## 🖼 Screenshots
 
+![Screenshot 2023-04-02 004819](https://user-images.githubusercontent.com/67127338/229315657-2cdc8649-e9cd-44d6-af23-40bc13a56301.png)
+![Screenshot 2023-04-02 004838](https://user-images.githubusercontent.com/67127338/229315676-5c3e9a20-1e2a-4084-a6df-54fa318af8fc.png)
 
 ## 👨‍💻 Auther
 Khalid Al-Saleh  khalid.alsaleh.dev@gmail.com
