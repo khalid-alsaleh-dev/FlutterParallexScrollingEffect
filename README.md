@@ -1,16 +1,30 @@
-# flutter_parallex_scrolling_effect
+# Flutter Parallex Scrolling Effect App 👏👍🔥
 
-A new Flutter project.
+This project designed using figma and built using flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo URL
+soon will be hosted 
 
-A few resources to get you started if this is your first Flutter project:
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Requirements 
+
+- Any Operating System (MacOS, Linux, Windows)
+- Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
+
+## Download The Project,Install Dependencies && Run The Project 
+- Run the next command to Clone the repo to your machine `https://github.com/khalid-alsaleh-dev/fluter_parallex_scrolling_effect`
+- Run the next commands to install the required dependencies
+  1. `cd <../path/to/fluter_parallex_scrolling_effect>`
+  2. `flutter pub get`
+- Run the next command to run the project `flutter run`
+  
+
+## 🖼 Screenshots
+
+
+## 👨‍💻 Auther
+Khalid Al-Saleh  khalid.alsaleh.dev@gmail.com
